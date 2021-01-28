@@ -1,0 +1,3 @@
+* Jigsaw Puzzles
+* Books
+* Pottery
