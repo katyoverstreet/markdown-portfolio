@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sunset Pine Silhouette Painting](https://coursehorse.imgix.net/images/course/17451/main/Paint%20Nite%20Sunset%20Pine%20Silhouette1.png?auto=format%2Cenhance%2Ccompress&crop=entropy&fit=crop&h=220&ixlib=php-1.2.1&q=90&w=330)
